@@ -19,9 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Benjamin Fournet
-domain: "Algonight.github.io"
-baseurl: "Algonight/Algonight.github.io"
-url: "https://Algonight.github.io"
 twitter_username: BenjaminFournet
 github_username: Algonight
 
